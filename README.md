@@ -1,7 +1,7 @@
 <img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png" width="1200" >
 
-# Harmony Music
-A cross platform app for music streaming made with Flutter(Android, Windows, linux).
+# Spekify Music
+A android app for music streaming made with Flutter.
 
 # Features
 * Ability to play song from Ytube/Ytube Music.
@@ -27,7 +27,7 @@ A cross platform app for music streaming made with Flutter(Android, Windows, lin
 
 
 # Download
-<a href="https://github.com/anandnet/Harmony-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "https://f-droid.org/packages/com.anandnet.harmonymusic"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
+<a href="https://github.com/rajbhar-rohit/Spekify-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "https://f-droid.org/packages/com.whiteshark.spekify"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
 
 # Translation
 <a href="https://hosted.weblate.org/engage/harmony-music/">
@@ -41,7 +41,7 @@ You can also help us in translation, click status image or <a href="https://host
 
 # License
 ```
-Harmony Music is a free software licensed under GPL v3.0 with following condition.
+Spekify Music is a free software licensed under GPL v3.0 with following condition.
 
 - Copied/Modified version of this software can not be used for 'non-free' and profit purposes.
 - You can not publish copied/modified version of this app on closed source app repository
