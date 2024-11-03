@@ -1,6 +1,6 @@
-<img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png" width="1200" >
+/* <img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png" width="1200" > */
 
-# Harmony Music
+# Spekify Music
 A cross platform app for music streaming made with Flutter(Android, Windows, linux).
 
 # Features
@@ -27,7 +27,7 @@ A cross platform app for music streaming made with Flutter(Android, Windows, lin
 
 
 # Download
-<a href="https://github.com/rajbhar-rohit/Spekify-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "https://f-droid.org/packages/com.anandnet.harmonymusic"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
+<a href="https://github.com/rajbhar-rohit/Spekify-Music/releases/latest"><img src ="https://github.com/anandnet/Harmony-Music/blob/main/don_github.png" width = "250"></a> <a href= "[https://f-droid.org/packages/com.anandnet.harmonymusic](https://upload.app/download/spekify/com.whiteshark.spekify/28e77c576bbce52c7c7d1887fbaccb8d51fcc15b27f8e312c7533bc3af841fe9)"><img src = "https://github.com/anandnet/Harmony-Music/blob/main/down_fdroid.png" width = '250'></a></a> 
 
 # Translation
 <a href="https://hosted.weblate.org/engage/harmony-music/">
