@@ -41,7 +41,7 @@ You can also help us in translation, click status image or <a href="https://host
 
 # License
 ```
-Harmony Music is a free software licensed under GPL v3.0 with following condition.
+Spekify Music is a free software licensed under GPL v3.0 with following condition.
 
 - Copied/Modified version of this software can not be used for 'non-free' and profit purposes.
 - You can not publish copied/modified version of this app on closed source app repository
