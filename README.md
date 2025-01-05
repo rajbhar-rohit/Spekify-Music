@@ -1,4 +1,4 @@
-/* <img src="https://github.com/anandnet/Harmony-Music/blob/main/cover.png23" width="1200" > */
+<img src="https://github.com/rajbhar-rohit/Spekify-Music/blob/master/cover.png" width="1200" >
 
 # Spekify Music
 A cross platform app for music streaming made with Flutter(Android, Windows, linux).
