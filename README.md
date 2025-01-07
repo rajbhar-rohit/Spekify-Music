@@ -82,4 +82,13 @@ Synced lyrics provided by <a href = 'https://lrclib.net' >LRCLIB</a> <br/>
 * hive: ^2.2.3 - offline db used 
 * hive_flutter: ^1.1.0
 
+## Star History
+
+<a href="https://star-history.com/#rajbhar-rohit/Spekify-Music&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rajbhar-rohit/Spekify-Music&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rajbhar-rohit/Spekify-Music&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=rajbhar-rohit/Spekify-Music&type=Date" />
+ </picture>
+</a>
 
